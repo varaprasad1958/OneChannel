@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "dfdemorajesh"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
